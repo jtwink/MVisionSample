@@ -11,6 +11,5 @@ Contents
 
 .. toctree::
 
-   About.docx
-   Notes.docx
-   Technology
+   :ref:'About.docx<About.docx>'
+   

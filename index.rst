@@ -11,7 +11,8 @@ Contents
 
 .. toctree::
 
+   Technology
    About
    Notes
-   Technology
+   
    

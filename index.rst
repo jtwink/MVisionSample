@@ -11,6 +11,6 @@ Contents
 
 .. toctree::
 
-   About
-   Notes
+   About.docx
+   Notes.docx
    Technology

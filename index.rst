@@ -11,8 +11,7 @@ Contents
 
 .. toctree::
 
-   Technology
-   About
-   Notes
+   MVisionSample/About
+   MVisionSample/Notes
    
    

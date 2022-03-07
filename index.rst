@@ -11,7 +11,7 @@ Contents
 
 .. toctree::
 
-   MVisionSample/About
-   MVisionSample/Notes
+   main/About
+   main/Notes
    
    

@@ -5,13 +5,13 @@ Example subtitle
 ***********************
 Lorem impsum yada yada yada
 
-Example subtitle 2
+Exampl subtitl
 ***********************
 Lorem impsum yada yada yada
 
-Testing 2
+Testin'
 =======================
 
-Example subtitle 3
+Exam sub
 ***********************
 Lorem impsum yada yada yada

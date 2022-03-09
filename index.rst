@@ -8,7 +8,6 @@ Welcome to uSMET!
 
 
 .. toctree::
-   RST_Test
    About
    News
    

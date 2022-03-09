@@ -6,7 +6,7 @@ How Do Driverless Cars Work?
 
 Founder of M-Vision, Inc., Sridhar Lakshmanan, was featured extensively in a Time Magazine article as an expert on self-driving automobiles.
 
-`Link to Article <https://time.com/3719270/you-asked-how-do-driverless-cars-work/>`
+`Link to Article <https://time.com/3719270/you-asked-how-do-driverless-cars-work/>`_
 
 Small Companies with Homeland Dreams
 +++++++++++++++++++++++++++++++++++++

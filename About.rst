@@ -6,6 +6,7 @@ M-Vision, Inc. is a deep tech company focused on enabling technology for the def
 .. image:: images/image2.png
    :width: 400
    :alt: Alternative text
+   
 Our Innovative Technology
 **********************
 
@@ -16,4 +17,4 @@ Our Business
 
 M-Vision, Inc. is a start-up—a University of Michigan spin-off—that offers cutting-edge technology to the military and commercial markets. The M-Vision team is made up of highly experienced roboticists who have worked with the U.S. Military, Homeland Security and auto companies in the areas of mobility, safety, intelligence, and imaging.
 
-`Contact Link: <https://www.m-visioninc.com/contact>`_
+`Contact Link <https://www.m-visioninc.com/contact>`_

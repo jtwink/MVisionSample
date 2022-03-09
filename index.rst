@@ -11,7 +11,6 @@ Contents
 
 .. toctree::
 
-   :ref:`About`
-   :ref:`News`
+RST_Test
    
    

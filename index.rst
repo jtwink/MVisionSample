@@ -12,6 +12,6 @@ Contents
 .. toctree::
 
    :ref:`About`
-   :ref:`Notes`
+   :ref:`News`
    
    

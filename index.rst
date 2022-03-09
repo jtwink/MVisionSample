@@ -7,7 +7,7 @@ Welcome to uSMET!
    This project is under active development.
 
 Contents
---------
+===================================
 
 .. toctree::
 

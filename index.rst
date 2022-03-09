@@ -12,6 +12,6 @@ Welcome to uSMET!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   RST_Test
+RST_Test
    
    

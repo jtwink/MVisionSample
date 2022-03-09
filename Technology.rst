@@ -8,6 +8,6 @@ Technology
 
 
 .. toctree::
-   uSMET Product Description
+   uSMET Project Description
    Phase I Summary Report
    Phase II Technical Abstract

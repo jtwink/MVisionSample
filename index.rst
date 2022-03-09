@@ -11,7 +11,7 @@ Contents
 
 .. toctree::
 
-   main/About
-   main/Notes
+   :ref:`About`
+   :ref:`Notes`
    
    

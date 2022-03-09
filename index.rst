@@ -7,7 +7,7 @@ Welcome to uSMET!
    This project is under active development.
 
 
-.. toctree::
+..toctree::
    :maxdepth: 2
    :caption: Contents:
    RST_Test

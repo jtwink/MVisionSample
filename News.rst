@@ -1,4 +1,4 @@
-NEWS
+News
 ================
 
 How Do Driverless Cars Work?

@@ -10,4 +10,4 @@ Welcome to uSMET!
 .. toctree::
    About
    News
-   
+   Technology

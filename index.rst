@@ -8,8 +8,8 @@ Welcome to uSMET!
 
 
 .. toctree::
-:maxdepth: 2
-:caption: Contents:
-RST_Test
+   :maxdepth: 2
+   :caption: Contents:
+   RST_Test
    
    
